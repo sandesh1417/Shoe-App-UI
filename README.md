@@ -1,16 +1,12 @@
-# dribbble_ui
+## Shoe E-commerce App
 
-A new Flutter project.
+UI of shoe E-commerce App.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/sandesh1417/Shoe-App-UI/blob/main/Screenshots/Screenshot_1652719359.png" alt="drawing" width="200"/>  <img src="https://github.com/sandesh1417/Shoe-App-UI/blob/main/Screenshots/Screenshot_1652719365.png" alt="drawing" width="200"/>     <img src="https://github.com/sandesh1417/Shoe-App-UI/blob/main/Screenshots/Screenshot_1652719373.png" alt="drawing" width="200"/>
 
-A few resources to get you started if this is your first Flutter project:
+UI of Shoe App.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
